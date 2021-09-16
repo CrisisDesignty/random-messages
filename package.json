@@ -1,0 +1,16 @@
+{
+  "name": "crisisdesignty-random-messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "santi <santiago.orduno2000@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
